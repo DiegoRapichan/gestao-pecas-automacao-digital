@@ -90,4 +90,4 @@ Quantidade de caixas utilizadas: 2
 
 ## Autor
 
-Diego Colombari Rapichan — Pós-graduação em IA & Automação Digital (UniFECAF)
+Diego Colombari Rapichan — Graduação em IA & Automação Digital (UniFECAF)
